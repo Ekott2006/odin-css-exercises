@@ -1,0 +1,19 @@
+.odd-num {
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", Tahoma, sans-serif;
+}
+
+#second-elem {
+    color: #00f;
+    font-size: 36px;
+}
+
+.third-elem {
+    font-size: 24px;
+}
+
+#fourth-elem {
+    background-color: #76ee76;
+    font-size: 24px;
+    font-weight: bold;
+}
